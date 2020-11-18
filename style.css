@@ -1,0 +1,17 @@
+html,
+body {
+  background-color: rgb(190, 190, 190);
+  color: #105f64;
+  font-family: "Turret Road", cursive;
+  font-size: 20px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
+
+input {
+  padding: 10px 50px 10px 50px;
+  margin: 10px 0 0 20px;
+  background: rgb(218, 158, 158);
+  border-radius: 20px;
+  text-align: left;
+}
